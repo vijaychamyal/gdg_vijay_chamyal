@@ -10,21 +10,7 @@ The system allows users to visualize future price trends and simultaneously unde
 1.  **Task 1: Predictive Core** (Time Series Forecasting)
 2.  **Task 2: Analytical Chatbot** (RAG-based Explanation)
 
-## Repository Structure
-The codebase is organized into the following directory structure:
 
-GDG-Inductions-2026/
-├── PS1/
-│   ├── Task1/              # Predictive Core (Streamlit Dashboard)
-│   │   ├── app.py
-│   │   └── requirements.txt
-│   │
-│   └── Task2/              # Analytical Chatbot (RAG Agent)
-│       ├── chatbot.py
-│       ├── requirements.txt
-│       └── .env            # Environment variables (User must create this)
-│
-└── README.md               # Main Documentation
 
 ## Task 1: Predictive Core (Time Series Forecasting)
 **Location:** PS1/Task1/
