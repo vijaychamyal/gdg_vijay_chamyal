@@ -60,7 +60,7 @@ This module is a natural language chatbot designed to explain market behaviors. 
     pip install -r requirements.txt
 
     Run the application:
-    streamlit run app.py
+    streamlit run task1.py
 
 3.  **Running Task 2 (Analytical Chatbot):**
     Navigate to the Task 2 directory:
