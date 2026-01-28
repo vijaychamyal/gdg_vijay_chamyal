@@ -1,0 +1,15 @@
+streamlit
+yfinance
+pandas
+numpy
+torch
+scikit-learn
+plotly
+prophet
+langchain
+langchain-google-genai
+langchain-community
+langchain-huggingface
+faiss-cpu
+finnhub-python
+python-dotenv
